@@ -50,6 +50,4 @@ void Man()
 
 */
 int main()
-{
-    Man();
-}
+{ Man(); }
