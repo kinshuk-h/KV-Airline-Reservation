@@ -1,6 +1,8 @@
 # KV-Airline-Reservation
 #### Introduction
 A C++ Program to Simulate a Flight Reservation Program. <br/>
+#### Prerequisities
+64-Bit Processor, Windows OS<br/>
 #### Graphics
 Win32API. (No GDI).<br/>
 #### No. of Lines 
@@ -23,3 +25,7 @@ Win32API. (No GDI).<br/>
    Leave some feedback in the program.
 1. *View Customer Helpline Details*<br/>
    Displays the customer details, along with a nice picture.
+### Instructions for Use
+* Download the entire repository and all its files.
+* On a Computer, Run the `KV_Airlines.exe` file inside the main folder, or Run the Release version of the program by opening the project in an IDE like CodeBlocks. Do not simply execute the `.exe` inside the `bin\Release` folder directly. 
+* Follow the prompted commands.
