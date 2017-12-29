@@ -1,8 +1,11 @@
 # KV-Airline-Reservation
-**Introduction - ** A C++ Program to Simulate a Flight Reservation Program. <br/>
-**Graphics     - ** Win32API. (No GDI).<br/>
-**No. of Lines - ** 5850 (Including Headers and Docstrings).<br/><br/>
-# Features 
+#### Introduction
+A C++ Program to Simulate a Flight Reservation Program. <br/>
+#### Graphics
+Win32API. (No GDI).<br/>
+#### No. of Lines 
+5850 (Including Headers and Docstrings).<br/><br/>
+### Features 
 1. *View Manifest - Staff Only*<br/>
    View Manifest Records of various flights on various days, customisable to requirements.
 1. *Book a Flight*<br/>
@@ -14,9 +17,9 @@
       1. Change the Date and Seat of Travel.
       1. View Passenger Data in Detail.
       1. Redownload E-Tickets.
-1. *View Time-Table of Flights*br/>
+1. *View Time-Table of Flights*<br/>
    View the Flight Timings for each day, with a brief description.
-1. *Leave Feedback*br/>
+1. *Leave Feedback*<br/>
    Leave some feedback in the program.
 1. *View Customer Helpline Details*<br/>
    Displays the customer details, along with a nice picture.
