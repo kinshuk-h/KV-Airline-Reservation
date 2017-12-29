@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="Airline\Decor.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="54" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="25" />
+			<Collapse line="29" />
+			<Collapse line="33" />
+			<Collapse line="38" />
+			<Collapse line="50" />
+			<Collapse line="67" />
+			<Collapse line="89" />
+			<Collapse line="113" />
+			<Collapse line="119" />
+			<Collapse line="123" />
+			<Collapse line="139" />
+			<Collapse line="149" />
+			<Collapse line="155" />
+			<Collapse line="161" />
+			<Collapse line="167" />
+			<Collapse line="173" />
+			<Collapse line="179" />
+			<Collapse line="185" />
+			<Collapse line="191" />
+			<Collapse line="197" />
+		</Folding>
+	</File>
+	<File name="Airline\Utility.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2477" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="Airline\Classes.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="145" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+		</Folding>
+	</File>
+	<File name="Airline\Data.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="209" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="MAIN_FILE.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="180" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Bug Tester.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1190" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="8" />
+			<Collapse line="35" />
+		</Folding>
+	</File>
+	<File name="KV_Airlines.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="93" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Airline\Algorithms.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="64" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

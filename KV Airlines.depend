@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1512140308 source:h:\all c++ files\kv airlines\bug tester.cpp
+	"KV_Airlines.h"
+
+1511522160 h:\all c++ files\kv airlines\kv_airlines.h
+	"Airline/Classes.h"
+	"Airline/Decor.h"
+
+1512141762 h:\all c++ files\kv airlines\airline\classes.h
+	"Algorithms.h"
+	"Data.h"
+	"Utility.h"
+	<vector>
+
+1511516916 h:\all c++ files\kv airlines\airline\algorithms.h
+	<iostream>
+	<string>
+	<cctype>
+	<algorithm>
+	<cstring>
+	<sstream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<regex>
+
+1511417134 h:\all c++ files\kv airlines\airline\data.h
+	<iostream>
+	<cmath>
+	<limits>
+	<string>
+	<windows.h>
+
+1511443526 h:\all c++ files\kv airlines\airline\utility.h
+	"Decor.h"
+	"Algorithms.h"
+
+1511273325 h:\all c++ files\kv airlines\airline\decor.h
+	<iomanip>
+	<iostream>
+	<vector>
+	"Data.h"
+
+1510729428 source:h:\all c++ files\kv airlines\main_file.cpp
+	"KV_Airlines.h"
+
+1510729428 source:g:\all c++ files\kv airlines\main_file.cpp
+	"KV_Airlines.h"
+
+1510820007 g:\all c++ files\kv airlines\kv_airlines.h
+	"Airline/Classes.h"
+	"Airline/Decor.h"
+
+1510820008 g:\all c++ files\kv airlines\airline\classes.h
+	"Algorithms.h"
+	"Data.h"
+	"Utility.h"
+	<vector>
+
+1510663743 g:\all c++ files\kv airlines\airline\algorithms.h
+	<iostream>
+	<string>
+	<cctype>
+	<algorithm>
+	<cstring>
+	<sstream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<regex>
+
+1510239437 g:\all c++ files\kv airlines\airline\data.h
+	<iostream>
+	<cmath>
+	<limits>
+	<string>
+	<conio.h>
+	<windows.h>
+
+1510375175 g:\all c++ files\kv airlines\airline\utility.h
+	"Decor.h"
+	"Algorithms.h"
+
+1510820009 g:\all c++ files\kv airlines\airline\decor.h
+	<iomanip>
+	<iostream>
+	<vector>
+	"Data.h"
+
+1510729428 source:d:\all c++ files\kv airlines\main_file.cpp
+	"KV_Airlines.h"
+
+1511158564 d:\all c++ files\kv airlines\kv_airlines.h
+	"Airline/Classes.h"
+	"Airline/Decor.h"
+
+1511160565 d:\all c++ files\kv airlines\airline\classes.h
+	"Algorithms.h"
+	"Data.h"
+	"Utility.h"
+	<vector>
+
+1510663743 d:\all c++ files\kv airlines\airline\algorithms.h
+	<iostream>
+	<string>
+	<cctype>
+	<algorithm>
+	<cstring>
+	<sstream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<regex>
+
+1510239437 d:\all c++ files\kv airlines\airline\data.h
+	<iostream>
+	<cmath>
+	<limits>
+	<string>
+	<conio.h>
+	<windows.h>
+
+1510851306 d:\all c++ files\kv airlines\airline\utility.h
+	"Decor.h"
+	"Algorithms.h"
+
+1510828262 d:\all c++ files\kv airlines\airline\decor.h
+	<iomanip>
+	<iostream>
+	<vector>
+	"Data.h"
+
