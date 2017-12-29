@@ -2,6 +2,5 @@
 int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR CmdLine, int nCmdShow)
 {
     AppState AS("NEW");
-    AS.Run();
-    return EXIT_SUCCESS;
+    AS.Run(); return EXIT_SUCCESS;
 }
